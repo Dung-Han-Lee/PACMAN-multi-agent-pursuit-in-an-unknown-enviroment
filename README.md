@@ -21,4 +21,6 @@ Install [Opencv4](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.h
 ## Run with auto control
     ./build/bin/MEP auto
 
-  
+## Limitations
+The assignment of blocking position to ghosts is currently done by trying out all permutation  
+this part should be replaced with more efficient algorithm e.g. hungarian algorithm
