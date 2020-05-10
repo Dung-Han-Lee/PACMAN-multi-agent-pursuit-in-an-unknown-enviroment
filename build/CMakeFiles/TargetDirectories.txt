@@ -1,3 +1,0 @@
-/home/dung-han-lee/git_workspace/PACMAN-multi-agent-pursuit-in-an-unknown-enviroment/build/CMakeFiles/rebuild_cache.dir
-/home/dung-han-lee/git_workspace/PACMAN-multi-agent-pursuit-in-an-unknown-enviroment/build/CMakeFiles/edit_cache.dir
-/home/dung-han-lee/git_workspace/PACMAN-multi-agent-pursuit-in-an-unknown-enviroment/build/CMakeFiles/run_pacman.dir
